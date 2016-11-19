@@ -1,4 +1,4 @@
-angular.module('WWRehabApp')
+angular.module('PTApp')
   .directive('pageHeader', function () {
     return {
       restrict: 'E',

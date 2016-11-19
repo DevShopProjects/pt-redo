@@ -1,4 +1,4 @@
-angular.module('WWRehabApp', ['ui.router'])
+angular.module('PTApp', ['ui.router'])
 
 .config(function ($urlRouterProvider, $stateProvider, $locationProvider) {
 
